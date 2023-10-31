@@ -59,6 +59,7 @@ Titolo: Xdono
 Genere: Pop
 Valutazione: 1
 
+
 ----   RICERCA BRANO PER TITOLO   ----
 
 Inserisci il titolo del brano
@@ -68,6 +69,7 @@ Brano n.2
 
 ARTISTA       TITOLO        GENERE       VALUTAZIONE
 Lucio Battisti  Pensieri e parole  Pop           4
+
 
 ----   VISUALIZZAZIONE BRANI PER GENERE   ----
 
@@ -83,17 +85,4 @@ Lucio Battisti  Pensieri e parole  Pop           4
 Laura Pausini  Incancellabile  Pop           2
 Tiziano Ferro  Xdono  Pop           1
 
-----   CREAZIONE E VISUALIZZAZIONE PLAYLIST   ----
 
-Inserisci dimensione playlist
----> 2
-
-Inserisci i brani da inserire nella playlist
----> 1
----> 2
-
-Playlist n.1
-
-ARTISTA       TITOLO        GENERE       VALUTAZIONE
-Fabrizio De André  La canzone di Marinella  Cantautore  5
-Lucio Battisti  Pensieri e parole  Pop           4
